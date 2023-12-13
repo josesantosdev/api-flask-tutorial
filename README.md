@@ -1,6 +1,8 @@
 # Minha API REST com Flask
 Bem-vindo ao repositório da minha primeira API REST construída com Flask em Python. Este projeto é um tutorial prático que abrange desde a configuração inicial até o desenvolvimento de uma aplicação de gerenciamento de livros com operações CRUD.
 
+Link para o post
+[Construindo sua Primeira API REST com Flask em Python](https://www.josesantos.dev/tutorial/2023/12/13/construindo-sua-primeira-api-rest-com-flask-em-python.html)
 # Requisitos
 Certifique-se de ter o Python instalado em sua máquina. Para usuários do Windows, faça o download e instale o executável do site oficial. Usuários Linux provavelmente já têm o Python instalado; caso contrário, instale-o via terminal:
 
