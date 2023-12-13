@@ -12,7 +12,6 @@ python3 --version
 A estrutura do projeto é organizada da seguinte forma:
 
 ```bash
-Copy code
 ├── app
 │   ├── controllers
 │   │   └── book_controller.py
